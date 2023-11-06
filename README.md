@@ -5,7 +5,8 @@ In this project, we evaluate the prediction of heart failure using two different
 The Code can be executed using Google Collab or Jupyter Notebook with appropriate paths to the input folders
 
 # Data
-This dataset has been taken from an open-source Kaggle. A total of 1200 observations were produced by combining several easily accessible databases. Below mentioned is the link for the dataset in Kaggle.
+This dataset has been taken from an open-source Kaggle. A total of 1200 observations were produced by combining several easily accessible databases. 
+Below mentioned is the link for the dataset in Kaggle.
 https://www.kaggle.com/code/theeprologue/heart-failureprediction-logistic-regression-ann/data
 
 # Methods
